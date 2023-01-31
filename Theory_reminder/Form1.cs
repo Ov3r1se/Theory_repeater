@@ -47,7 +47,7 @@ namespace Theory_reminder
             if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
             {
 
-                Console.WriteLine("123");
+                Console.WriteLine("abc");
 
                 string pathWithTopics = folderBrowserDialog1.SelectedPath;
 
