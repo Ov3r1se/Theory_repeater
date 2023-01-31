@@ -27,6 +27,7 @@ namespace Theory_reminder
             InitializeComponent();
         }
 
+        //Попробоватб замутить меню
         private void Form1_Load(object sender, EventArgs e)
         {
             //this.WindowState = FormWindowState.Maximized;
