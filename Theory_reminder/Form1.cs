@@ -55,6 +55,7 @@ namespace Theory_reminder
 
                 string[] sections_topics = Directory.GetFiles(pathWithTopics, "*.txt");
 
+                //Добавить сюда выбор (да/нет) для создания папки с текстфайлом
                 if (sections_topics.Length == 0) MessageBox.Show("Темы в данном каталоге не обнаружены");
 
                 //string nameVideoFile = "";
